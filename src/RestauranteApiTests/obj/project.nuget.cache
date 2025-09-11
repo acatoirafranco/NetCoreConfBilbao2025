@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b5S5Gff9qz8=",
+  "dgSpecHash": "OXEn16KdlmE=",
   "success": true,
-  "projectFilePath": "C:\\TOKIOTA\\Workshops\\DemoNetCoreConf2025\\src\\RestauranteApiTests\\RestauranteApiTests.csproj",
+  "projectFilePath": "C:\\TOKIOTA\\Workshops\\NetCoreConfBilbao2025\\src\\RestauranteApiTests\\RestauranteApiTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AlbaCatoiraFranco\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\AlbaCatoiraFranco\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",

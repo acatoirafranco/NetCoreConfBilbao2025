@@ -29,7 +29,7 @@ jobs:
         run: dotnet tool install --global dotnet-reportgenerator-globaltool
 
       - name: Run Unit and Integration Tests
-        run: dotnet test **/*RestauranteApiTests.csproj --configuration ${{ env.BUILD_CONFIGURATION }} --collect "XPlat Code coverage" --logger trx
+        run: dotnet test src/RestauranteApiTests/RestauranteApiTests.csproj --configuration ${{ env.BUILD_CONFIGURATION }} --collect "XPlat Code coverage" --logger trx
 
       - name: Generate Code Coverage Report
         run: reportgenerator -reports:**/coverage.cobertura.xml -targetdir:coverlet/reports -reporttypes:Cobertura
@@ -49,10 +49,10 @@ jobs:
           path: coverlet/reports/Cobertura.xml
 
       - name: Restore dependencies
-        run: dotnet restore **/*RestauranteApi.csproj
+        run: dotnet restore src/RestauranteApi/RestauranteApi.csproj
 
       - name: Publish App
-        run: dotnet publish **/*RestauranteApi.csproj --configuration ${{ env.BUILD_CONFIGURATION }} --output ./publish
+        run: dotnet publish src/RestauranteApi/RestauranteApi.csproj --configuration ${{ env.BUILD_CONFIGURATION }} --output ./publish
 
       - name: Archive Publish Folder
         run: |

@@ -11,11 +11,10 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("0246a909-d9ce-46f0-9eca-da6b2a09c9b2")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("RestauranteApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d19f07cb49d60a700dff8e6f6515b8f721a5245")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c03788ec466d9e2ac9c3c3b9ef77a1ba3ab1832")]
 [assembly: System.Reflection.AssemblyProductAttribute("RestauranteApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RestauranteApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
