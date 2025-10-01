@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\TOKIOTA\\Workshops\\DemoNetCoreConf2025\\src\\",
+  "WorkspaceRootPath": "C:\\TOKIOTA\\Workshops\\NetCoreConfBilbao2025\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB56B051-1452-44D9-BAC8-A6DDAF4BF3A9}|RestauranteApiTests\\RestauranteApiTests.csproj|c:\\tokiota\\workshops\\demonetcoreconf2025\\src\\restauranteapitests\\teststartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB56B051-1452-44D9-BAC8-A6DDAF4BF3A9}|RestauranteApiTests\\RestauranteApiTests.csproj|c:\\tokiota\\workshops\\netcoreconfbilbao2025\\src\\restauranteapitests\\teststartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB56B051-1452-44D9-BAC8-A6DDAF4BF3A9}|RestauranteApiTests\\RestauranteApiTests.csproj|solutionrelative:restauranteapitests\\teststartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB56B051-1452-44D9-BAC8-A6DDAF4BF3A9}|RestauranteApiTests\\RestauranteApiTests.csproj|c:\\tokiota\\workshops\\demonetcoreconf2025\\src\\restauranteapitests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB56B051-1452-44D9-BAC8-A6DDAF4BF3A9}|RestauranteApiTests\\RestauranteApiTests.csproj|c:\\tokiota\\workshops\\netcoreconfbilbao2025\\src\\restauranteapitests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB56B051-1452-44D9-BAC8-A6DDAF4BF3A9}|RestauranteApiTests\\RestauranteApiTests.csproj|solutionrelative:restauranteapitests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB56B051-1452-44D9-BAC8-A6DDAF4BF3A9}|RestauranteApiTests\\RestauranteApiTests.csproj|c:\\tokiota\\workshops\\demonetcoreconf2025\\src\\restauranteapitests\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{EB56B051-1452-44D9-BAC8-A6DDAF4BF3A9}|RestauranteApiTests\\RestauranteApiTests.csproj|c:\\tokiota\\workshops\\netcoreconfbilbao2025\\src\\restauranteapitests\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EB56B051-1452-44D9-BAC8-A6DDAF4BF3A9}|RestauranteApiTests\\RestauranteApiTests.csproj|solutionrelative:restauranteapitests\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB56B051-1452-44D9-BAC8-A6DDAF4BF3A9}|RestauranteApiTests\\RestauranteApiTests.csproj|c:\\tokiota\\workshops\\demonetcoreconf2025\\src\\restauranteapitests\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{EB56B051-1452-44D9-BAC8-A6DDAF4BF3A9}|RestauranteApiTests\\RestauranteApiTests.csproj|c:\\tokiota\\workshops\\netcoreconfbilbao2025\\src\\restauranteapitests\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EB56B051-1452-44D9-BAC8-A6DDAF4BF3A9}|RestauranteApiTests\\RestauranteApiTests.csproj|solutionrelative:restauranteapitests\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A38EE102-0834-41AC-82C6-EE556BDCF6F6}|RestauranteApi\\RestauranteApi.csproj|c:\\tokiota\\workshops\\demonetcoreconf2025\\src\\restauranteapi\\pedidoendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A38EE102-0834-41AC-82C6-EE556BDCF6F6}|RestauranteApi\\RestauranteApi.csproj|c:\\tokiota\\workshops\\netcoreconfbilbao2025\\src\\restauranteapi\\pedidoendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A38EE102-0834-41AC-82C6-EE556BDCF6F6}|RestauranteApi\\RestauranteApi.csproj|solutionrelative:restauranteapi\\pedidoendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A38EE102-0834-41AC-82C6-EE556BDCF6F6}|RestauranteApi\\RestauranteApi.csproj|c:\\tokiota\\workshops\\demonetcoreconf2025\\src\\restauranteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A38EE102-0834-41AC-82C6-EE556BDCF6F6}|RestauranteApi\\RestauranteApi.csproj|c:\\tokiota\\workshops\\netcoreconfbilbao2025\\src\\restauranteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A38EE102-0834-41AC-82C6-EE556BDCF6F6}|RestauranteApi\\RestauranteApi.csproj|solutionrelative:restauranteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB56B051-1452-44D9-BAC8-A6DDAF4BF3A9}|RestauranteApiTests\\RestauranteApiTests.csproj|c:\\tokiota\\workshops\\demonetcoreconf2025\\src\\restauranteapitests\\integrationtests\\restauranteapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB56B051-1452-44D9-BAC8-A6DDAF4BF3A9}|RestauranteApiTests\\RestauranteApiTests.csproj|c:\\tokiota\\workshops\\netcoreconfbilbao2025\\src\\restauranteapitests\\integrationtests\\restauranteapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB56B051-1452-44D9-BAC8-A6DDAF4BF3A9}|RestauranteApiTests\\RestauranteApiTests.csproj|solutionrelative:restauranteapitests\\integrationtests\\restauranteapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A38EE102-0834-41AC-82C6-EE556BDCF6F6}|RestauranteApi\\RestauranteApi.csproj|c:\\tokiota\\workshops\\demonetcoreconf2025\\src\\restauranteapi\\data\\pedidodbcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A38EE102-0834-41AC-82C6-EE556BDCF6F6}|RestauranteApi\\RestauranteApi.csproj|c:\\tokiota\\workshops\\netcoreconfbilbao2025\\src\\restauranteapi\\data\\pedidodbcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A38EE102-0834-41AC-82C6-EE556BDCF6F6}|RestauranteApi\\RestauranteApi.csproj|solutionrelative:restauranteapi\\data\\pedidodbcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -92,11 +92,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TestStartup.cs",
-              "DocumentMoniker": "C:\\TOKIOTA\\Workshops\\DemoNetCoreConf2025\\src\\RestauranteApiTests\\TestStartup.cs",
+              "DocumentMoniker": "C:\\TOKIOTA\\Workshops\\NetCoreConfBilbao2025\\src\\RestauranteApiTests\\TestStartup.cs",
               "RelativeDocumentMoniker": "RestauranteApiTests\\TestStartup.cs",
-              "ToolTip": "C:\\TOKIOTA\\Workshops\\DemoNetCoreConf2025\\src\\RestauranteApiTests\\TestStartup.cs",
+              "ToolTip": "C:\\TOKIOTA\\Workshops\\NetCoreConfBilbao2025\\src\\RestauranteApiTests\\TestStartup.cs",
               "RelativeToolTip": "RestauranteApiTests\\TestStartup.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T16:40:43.406Z",
               "EditorCaption": ""
@@ -105,61 +105,57 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CustomWebApplicationFactory.cs",
-              "DocumentMoniker": "C:\\TOKIOTA\\Workshops\\DemoNetCoreConf2025\\src\\RestauranteApiTests\\CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\TOKIOTA\\Workshops\\NetCoreConfBilbao2025\\src\\RestauranteApiTests\\CustomWebApplicationFactory.cs",
               "RelativeDocumentMoniker": "RestauranteApiTests\\CustomWebApplicationFactory.cs",
-              "ToolTip": "C:\\TOKIOTA\\Workshops\\DemoNetCoreConf2025\\src\\RestauranteApiTests\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\TOKIOTA\\Workshops\\NetCoreConfBilbao2025\\src\\RestauranteApiTests\\CustomWebApplicationFactory.cs",
               "RelativeToolTip": "RestauranteApiTests\\CustomWebApplicationFactory.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAAAB8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T16:40:22.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T16:40:22.681Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\TOKIOTA\\Workshops\\DemoNetCoreConf2025\\src\\RestauranteApiTests\\appsettings.json",
+              "DocumentMoniker": "C:\\TOKIOTA\\Workshops\\NetCoreConfBilbao2025\\src\\RestauranteApiTests\\appsettings.json",
               "RelativeDocumentMoniker": "RestauranteApiTests\\appsettings.json",
-              "ToolTip": "C:\\TOKIOTA\\Workshops\\DemoNetCoreConf2025\\src\\RestauranteApiTests\\appsettings.json",
+              "ToolTip": "C:\\TOKIOTA\\Workshops\\NetCoreConfBilbao2025\\src\\RestauranteApiTests\\appsettings.json",
               "RelativeToolTip": "RestauranteApiTests\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-31T16:40:16.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T16:40:16.819Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\TOKIOTA\\Workshops\\DemoNetCoreConf2025\\src\\RestauranteApiTests\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\TOKIOTA\\Workshops\\NetCoreConfBilbao2025\\src\\RestauranteApiTests\\appsettings.Development.json",
               "RelativeDocumentMoniker": "RestauranteApiTests\\appsettings.Development.json",
-              "ToolTip": "C:\\TOKIOTA\\Workshops\\DemoNetCoreConf2025\\src\\RestauranteApiTests\\appsettings.Development.json",
+              "ToolTip": "C:\\TOKIOTA\\Workshops\\NetCoreConfBilbao2025\\src\\RestauranteApiTests\\appsettings.Development.json",
               "RelativeToolTip": "RestauranteApiTests\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-31T16:40:13.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T16:40:13.674Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "PedidoEndpoints.cs",
-              "DocumentMoniker": "C:\\TOKIOTA\\Workshops\\DemoNetCoreConf2025\\src\\RestauranteApi\\PedidoEndpoints.cs",
+              "DocumentMoniker": "C:\\TOKIOTA\\Workshops\\NetCoreConfBilbao2025\\src\\RestauranteApi\\PedidoEndpoints.cs",
               "RelativeDocumentMoniker": "RestauranteApi\\PedidoEndpoints.cs",
-              "ToolTip": "C:\\TOKIOTA\\Workshops\\DemoNetCoreConf2025\\src\\RestauranteApi\\PedidoEndpoints.cs",
+              "ToolTip": "C:\\TOKIOTA\\Workshops\\NetCoreConfBilbao2025\\src\\RestauranteApi\\PedidoEndpoints.cs",
               "RelativeToolTip": "RestauranteApi\\PedidoEndpoints.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAowBYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T15:12:40.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T15:12:40.625Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\TOKIOTA\\Workshops\\DemoNetCoreConf2025\\src\\RestauranteApi\\Program.cs",
+              "DocumentMoniker": "C:\\TOKIOTA\\Workshops\\NetCoreConfBilbao2025\\src\\RestauranteApi\\Program.cs",
               "RelativeDocumentMoniker": "RestauranteApi\\Program.cs",
-              "ToolTip": "C:\\TOKIOTA\\Workshops\\DemoNetCoreConf2025\\src\\RestauranteApi\\Program.cs",
+              "ToolTip": "C:\\TOKIOTA\\Workshops\\NetCoreConfBilbao2025\\src\\RestauranteApi\\Program.cs",
               "RelativeToolTip": "RestauranteApi\\Program.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -169,9 +165,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "PedidoDbContextcs.cs",
-              "DocumentMoniker": "C:\\TOKIOTA\\Workshops\\DemoNetCoreConf2025\\src\\RestauranteApi\\Data\\PedidoDbContextcs.cs",
+              "DocumentMoniker": "C:\\TOKIOTA\\Workshops\\NetCoreConfBilbao2025\\src\\RestauranteApi\\Data\\PedidoDbContextcs.cs",
               "RelativeDocumentMoniker": "RestauranteApi\\Data\\PedidoDbContextcs.cs",
-              "ToolTip": "C:\\TOKIOTA\\Workshops\\DemoNetCoreConf2025\\src\\RestauranteApi\\Data\\PedidoDbContextcs.cs",
+              "ToolTip": "C:\\TOKIOTA\\Workshops\\NetCoreConfBilbao2025\\src\\RestauranteApi\\Data\\PedidoDbContextcs.cs",
               "RelativeToolTip": "RestauranteApi\\Data\\PedidoDbContextcs.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAwBkAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -181,9 +177,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "RestauranteApiTests.cs",
-              "DocumentMoniker": "C:\\TOKIOTA\\Workshops\\DemoNetCoreConf2025\\src\\RestauranteApiTests\\IntegrationTests\\RestauranteApiTests.cs",
+              "DocumentMoniker": "C:\\TOKIOTA\\Workshops\\NetCoreConfBilbao2025\\src\\RestauranteApiTests\\IntegrationTests\\RestauranteApiTests.cs",
               "RelativeDocumentMoniker": "RestauranteApiTests\\IntegrationTests\\RestauranteApiTests.cs",
-              "ToolTip": "C:\\TOKIOTA\\Workshops\\DemoNetCoreConf2025\\src\\RestauranteApiTests\\IntegrationTests\\RestauranteApiTests.cs",
+              "ToolTip": "C:\\TOKIOTA\\Workshops\\NetCoreConfBilbao2025\\src\\RestauranteApiTests\\IntegrationTests\\RestauranteApiTests.cs",
               "RelativeToolTip": "RestauranteApiTests\\IntegrationTests\\RestauranteApiTests.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

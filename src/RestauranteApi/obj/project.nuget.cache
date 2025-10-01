@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0haxckz7xus=",
+  "dgSpecHash": "r2mcdTu2pdA=",
   "success": true,
-  "projectFilePath": "C:\\TOKIOTA\\Workshops\\DemoNetCoreConf2025\\src\\RestauranteApi\\RestauranteApi.csproj",
+  "projectFilePath": "C:\\TOKIOTA\\Workshops\\NetCoreConfBilbao2025\\src\\RestauranteApi\\RestauranteApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AlbaCatoiraFranco\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\AlbaCatoiraFranco\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.10\\microsoft.aspnetcore.openapi.8.0.10.nupkg.sha512",

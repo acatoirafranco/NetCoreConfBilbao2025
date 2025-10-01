@@ -1,0 +1,79 @@
+name: Build and Deploy Restaurante API
+
+on:
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    env:
+      DOTNET_VERSION: '8.0.x'
+      BUILD_CONFIGURATION: 'Release'
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: ${{ env.DOTNET_VERSION }}
+
+      - name: Install ReportGenerator
+        run: dotnet tool install --global dotnet-reportgenerator-globaltool
+
+      - name: Run Unit and Integration Tests
+        run: dotnet test src/RestauranteApiTests/RestauranteApiTests.csproj --configuration ${{ env.BUILD_CONFIGURATION }} --collect "XPlat Code coverage" --logger trx
+
+      - name: Generate Code Coverage Report
+        run: reportgenerator -reports:**/coverage.cobertura.xml -targetdir:coverlet/reports -reporttypes:Cobertura
+
+      - name: Upload Test Results
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: test-results
+          path: '**/*.trx'
+
+      - name: Upload Coverage Report
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: coverage-report
+          path: coverlet/reports/Cobertura.xml
+
+      - name: Restore dependencies
+        run: dotnet restore src/RestauranteApi/RestauranteApi.csproj
+
+      - name: Publish App
+        run: dotnet publish src/RestauranteApi/RestauranteApi.csproj --configuration ${{ env.BUILD_CONFIGURATION }} --output ./publish
+
+      - name: Archive Publish Folder
+        run: |
+          cd publish
+          zip -r ../app.zip .
+          cd ..
+
+      - name: Upload Build Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: drop
+          path: app.zip
+
+      - name: Deploy to Azure Web App
+        uses: azure/webapps-deploy@v3
+        with:
+          app-name: acatoira-restaurante
+          resource-group-name: ACATOIRA
+          package: app.zip
+          publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
+
+
+
+
